@@ -1,0 +1,6 @@
+BBC Horizon documentary "Fermat's Last Theorem" told a very interesting story of Andrew Wiles providing a proof to Fermat's conjecture, which states that there are no three positive integers a, b and c so that they would satisfy the equation a^n + b^n = c^n where n is any integer greater than two. It is very inspiring to see someone dedicate their life to a problem like Wiles did and to see how it can solve a problem that has puzzled mathematicians for hundreds of years.
+
+Even though  
+
+- empiirinen tiede on siistimpää
+- perustutkimustakin tarvitaan
